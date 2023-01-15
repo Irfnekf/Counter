@@ -1,0 +1,15 @@
+.counter {
+  display: flex;
+  width: 320px;
+  padding: 25px;
+  border: 1px solid green;
+  margin: 50px auto 0 auto;
+  flex-direction: column;
+}
+.counter__value {
+  color: green;
+  font-size: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+}

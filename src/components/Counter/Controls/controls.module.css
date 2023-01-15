@@ -1,0 +1,15 @@
+.counter__controls {
+  display: flex;
+  gap: 15px;
+  padding: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.btn {
+  width: 100px;
+  color: green;
+
+  background-color: transparent;
+  border-color: green;
+  border-radius: 5px;
+}
